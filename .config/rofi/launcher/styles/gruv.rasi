@@ -1,0 +1,26 @@
+/* -- Gruvbox -- */
+
+* {
+shade1: #504945;
+shade2: #665c54;
+shade3: #282828;
+shade4: #1d2021;
+shade5: #00BCD4;
+shade6: #26C6DA;
+shade7: #4DD0E1;
+shade8: #80DEEA;
+}
+
+/**** Comment One First To Use Another ****/
+
+/* -- Dark -- */
+* {
+    border:               			@shade1;
+    border-alt:               		@shade2;
+    background:                     @shade3;
+    background-alt:                 @shade3;
+    selected:               		@shade4;
+    foreground:                     #ebdbb2;
+    urgent:                         #DA4453;
+}
+

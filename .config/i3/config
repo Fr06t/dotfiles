@@ -28,7 +28,7 @@ bindsym $mod+Return exec alacritty
 bindsym $mod+Shift+q kill
 
 # start rofi launcher with mod+d
-bindsym $mod+d exec bash ~/.config/rofi/launchers/slate/launcher.sh
+bindsym $mod+d exec bash ~/.config/rofi/launcher/launcher.sh
 
 # change focus
 bindsym $mod+j focus left
