@@ -1,0 +1,32 @@
+sw_volume: 44
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: play
+current: 14
+time: 125.008000
+random: 0
+repeat: 1
+single: 1
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:(2001) Discovery (Album)/14 - Too Long.flac
+1:(2001) Discovery (Album)/13 - Face to Face.flac
+2:(2001) Discovery (Album)/12 - Short Circuit.flac
+3:(2001) Discovery (Album)/11 - Veridis Quo.flac
+4:(2001) Discovery (Album)/10 - Voyager.flac
+5:(2001) Discovery (Album)/09 - Something About Us.flac
+6:(2001) Discovery (Album)/08 - High Life.flac
+7:(2001) Discovery (Album)/07 - Superheroes.flac
+8:(2001) Discovery (Album)/06 - Nightvision.flac
+9:(2001) Discovery (Album)/05 - Crescendolls.flac
+10:(2001) Discovery (Album)/04 - Harder, Better, Faster, Stronger.flac
+11:(2001) Discovery (Album)/03 - Digital Love.flac
+12:(2001) Discovery (Album)/02 - Aerodynamic.flac
+13:(2001) Discovery (Album)/01 - One More Time.flac
+14:Sade - Diamond Life/01 - Sade - Smooth Operator.flac
+15:Sade - Diamond Life/02 - Sade - Your Love Is King.flac
+16:Sade - Diamond Life/03 - Sade - Hang On To Your Love.flac
+playlist_end
